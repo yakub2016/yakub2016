@@ -54,8 +54,6 @@ I'm **Yakub Moodu** from India 🇮🇳
 
 ## 🔥 My Stats
 
-## 🔥 My Stats
-
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yakub2016&theme=nightowl" height="150" />
