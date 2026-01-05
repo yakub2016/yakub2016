@@ -1,7 +1,7 @@
 <h1 align="center">Hello, This is Yakub 👋</h1>
 
 <p align="center">
-  <a href="https://twitter.com/YOUR_USERNAME">
+  <a href="https://x.com/MoodYakub">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
   </a>
   &nbsp;&nbsp;
