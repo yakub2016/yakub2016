@@ -71,9 +71,9 @@ I'm **Yakub Moodu** from India 🇮🇳
 
 ## 🔥 My Stats
 
-### 🔥 GitHub Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=yakub2016&theme=tokyonight)
-
-### 📊 GitHub Stats
-![Yakub's GitHub stats](https://github-readme-stats.vercel.app/api?username=yakub2016&show_icons=true&theme=tokyonight)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yakub2016&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=nightowl&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=yakub2016&locale=en&mode=daily&theme=nightowl&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakub2016&radius=16&theme=react&area=true&order=5&hide_title=true&hide_border=true&bg_color=black" height="300" alt="activity-graph graph"  />
+</div>
 
