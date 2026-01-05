@@ -5,7 +5,7 @@
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="30"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME/">
+  <a href="https://www.linkedin.com/in/mooduyakub/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30"/>
   </a>
   &nbsp;&nbsp;
