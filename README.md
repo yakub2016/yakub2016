@@ -58,7 +58,7 @@ I'm **Yakub Moodu** from India 🇮🇳
 
   <img src="https://github-readme-streak-stats.herokuapp.com?user=yakub2016&theme=nightowl" height="150" />
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yakub2016&radius=16&theme=react&area=true&hide_title=true&hide_border=true&bg_color=black" height="300" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yakub2016&layout=compact&theme=nightowl" height="150"/>
 
 </div>
 
